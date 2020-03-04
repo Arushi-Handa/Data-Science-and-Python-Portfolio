@@ -1,4 +1,4 @@
-# Data Science Portfolio
+# Data Science and Python Portfolio
 This repository contains Data Analytics and Python related work.
 
 ## Analyzation using Python's Pandas
