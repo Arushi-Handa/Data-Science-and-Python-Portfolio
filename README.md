@@ -1,7 +1,7 @@
 # Data Science and Python Portfolio
 This repository contains Data Analytics and Python related work.
 
-##Data Analyzation and visualization using Python's Pandas,Matplotlin and Seaborn libraries
+## Data Analyzation and visualization using Python's Pandas, Matplotlib, and Seaborn libraries
 
 Exploited the power of Python's Pandas library and did analyzation of two datasets namely Salaries.csv and Ecommerce Purchases.csv.
 
