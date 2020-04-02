@@ -11,6 +11,6 @@ Exploited the power of Python's Pandas library and did analyzation of three data
 
 [911 Calls Analysis](https://github.com/Arushi-Handa/Data-Science-and-Python-Portfolio/blob/master/911%20Calls%20Data%20Analysis.ipynb)
 
-##Machine Learning Algorithms
+## Machine Learning Algorithms
 
 [Linear Regression](https://github.com/Arushi-Handa/Data-Science-and-Python-Portfolio/blob/master/Linear%20Regression.ipynb) : Using linear regression to conclude which is the better option(App,Website) for the company to increase their revenues.
