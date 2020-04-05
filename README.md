@@ -1,4 +1,4 @@
-# Data Science, Machine Learning and Python Portfolio
+# Data Science, Machine Learning, and Python Portfolio
 This repository contains Data Analytics and Machine Learning work implemented using Python.
 
 ## Data Analyzation and visualization using Python's Pandas, Matplotlib, and Seaborn libraries
