@@ -13,6 +13,6 @@ Exploited the power of Python's Pandas library and did analyzation of three data
 
 ## Machine Learning Algorithms
 
-[Linear Regression](https://github.com/Arushi-Handa/Data-Science-and-Python-Portfolio/blob/master/Linear%20Regression.ipynb) : Using linear regression to conclude which is the better option(App,Website) for the company to increase their revenues.
+[Linear Regression](https://github.com/Arushi-Handa/Data-Science-and-Python-Portfolio/blob/master/Linear%20Regression.ipynb) : Using linear regression to find which is the better option(App,Website) for the company to increase their revenues.
 
 [Logistic Regression](https://github.com/Arushi-Handa/Data-Science-and-Python-Portfolio/blob/master/Logistic%20Regression.ipynb) : Using Titanic Dataset in order to predict the survival rate of passengers.
